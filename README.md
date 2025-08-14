@@ -9,7 +9,7 @@
 <p align="center">
   <a href="mailto:leandrobm05@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-333?logo=gmail"></a>
   <a href="https://wa.me/55SEUNUMERO?text=Ol%C3%A1%2C%20vim%20pelo%20GitHub!"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Chat-25D366?logo=whatsapp&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/leandro-barbosa-martins-400618288/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white"></a>
   <a href="https://lbm28.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portf%C3%B3lio-Online-6E57E0?logo=vercel&logoColor=white"></a>
 </p>
 
